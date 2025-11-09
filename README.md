@@ -11,6 +11,8 @@ Déploiement complet d'une infrastructure AWS avec Terraform :
 **Objectif** : Montrer mes compétences AWS EC2/VPC/SG/IAM pour Tesla & xAI  
 **Date** : 08/11/2025  
 **Auteur** : David Njoku - AWS Certified Practitioner  
+[![AWS Certified Cloud Practitioner](https://images.credly.com/images/...)](https://www.credly.com/badges/...)
+[![AWS Technical Essentials](https://images.credly.com/images/...)](https://www.credly.com/badges/...)
 
 ### Commandes pour déployer :
 ```bash
@@ -18,5 +20,4 @@ terraform init
 terraform plan
 terraform apply
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/images/...)](https://www.credly.com/badges/...)
-[![AWS Technical Essentials](https://images.credly.com/images/...)](https://www.credly.com/badges/...)
+
