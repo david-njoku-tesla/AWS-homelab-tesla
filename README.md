@@ -17,3 +17,6 @@ Déploiement complet d'une infrastructure AWS avec Terraform :
 terraform init
 terraform plan
 terraform apply
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/images/...)](https://www.credly.com/badges/...)
+[![AWS Technical Essentials](https://images.credly.com/images/...)](https://www.credly.com/badges/...)
